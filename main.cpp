@@ -5,7 +5,7 @@
 #include <iostream>
 #include <stdlib.h>
 
-using namspace std;
+using namespace std;
 
 int main() {
     int numero, factorial = 1;
